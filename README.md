@@ -8,6 +8,7 @@ Instructions to compile and run the Driver:
 Go to the folder and run the following commands:
 
 $make
+
 $sudo insmod driver.ko
 
 After the execution:
